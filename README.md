@@ -1,4 +1,4 @@
-# IntroductionToMachineLearningWithPython
+# Introduction To Machine Learning With Python
 Code written while learning from "Introduction to Machine Learning with Python" (book by Andreas C. Muller &amp; Sarah Guido).
 
 ## Description
